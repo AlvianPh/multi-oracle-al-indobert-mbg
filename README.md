@@ -2,7 +2,7 @@
 
 Code and data for the paper:
 
-> Minarwati and A. P. Hardiadi, "Adaptive Multi-Oracle Active Learning using IndoBERT Representations for Efficient Indonesian Sentiment Classification," ICERA 2026 (IEEE).
+> Minarwati and A. P. Hardiadi, "Adaptive Multi-Oracle Active Learning using IndoBERT Representations for Efficient Indonesian Sentiment Classification," ICERA 2026 5th International Conference on Electronics Representation and Algorithm (IEEE).
 > DOI: [10.1109/ICERA72709.2026.11666714](https://doi.org/10.1109/ICERA72709.2026.11666714)
 
 Department of Informatics, STMIK El Rahma Yogyakarta.
